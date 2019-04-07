@@ -1,3 +1,6 @@
 helllo 
 dont mistake it 
 I am learning git
+
+
+making some changes
